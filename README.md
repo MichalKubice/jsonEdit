@@ -3,7 +3,7 @@
 
 2-npm install
 
-3-npm start
+3-open another terminal and npm start
 
 4-cd json-form
 
